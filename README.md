@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there 🚀
 
-<!--
-**terezavrchovinova/terezavrchovinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tereza Vrchovinová, a passionate QA Engineer with three years of experience specializing in test automation with Cypress. I have experience in team leadership, recruiting new members, and developing QA within the company.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently refining my skills in Cypress test automation.
+- 💼 Working as a QA Engineer at Apify.
+- 🔭 I'm interested in everything about QA and web development, particularly test automation.
+- 🇨🇿 I'm based in Prague.
+
+## Education
+
+- I graduated from [Private Secondary Technical School of Information Technology](https://www.sssvt.cz/) with a specialization in [Programming and Database Systems](https://www.sssvt.cz/prouchazece/specializace_programovani-a-databazove/)
+  - C#, ASP.NET MVC, SQL, HTML, CSS, PHP, JS
+  - Adobe Photoshop, Adobe Illustrator, Adobe XD
+  - Windows Server
+  - AutoCAD, Inventor
+  
+## Tech Stack
+
+- Test Automation: Cypress
+- Languages: JavaScript, partly C#, SQL
+- Tools: CI/CD, Postman, TestRail, Grafana, Sentry
+
+## Let's Connect!
+
+<p align="left"> <a href="https://www.linkedin.com/in/tereza-vrchovinova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
